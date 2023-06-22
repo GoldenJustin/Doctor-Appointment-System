@@ -1,5 +1,5 @@
 # Doctor-Appointment-System
-# Doctor Appointment System
+
 
 The Doctor Appointment System is a web application developed using PHP, JavaScript, MySQL, HTML, and CSS. It provides a platform for patients to schedule appointments with doctors conveniently.
 
